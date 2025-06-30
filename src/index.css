@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  background-image: url('/bgg.jpeg'); 
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+}
+

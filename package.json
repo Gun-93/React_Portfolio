@@ -1,7 +1,7 @@
-{
-  
+{  
   "name": "package.json",
   "private": true,
+  "homepage": "https://gun-93.github.io/React_Portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

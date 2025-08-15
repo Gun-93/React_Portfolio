@@ -7,7 +7,7 @@ It showcases my projects, skills, and experience as a developer.
 ---
 
 ## 🚀 Live Demo
-🔗 **[View Portfolio](gunkeshri.netlify.app)**  
+see in about section
 
 ---
 
@@ -28,8 +28,8 @@ It showcases my projects, skills, and experience as a developer.
 ---
 
 ## 📬 Contact
-- **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/gunkeshrie)
-- **GitHub:** [Your GitHub](https://github.com/Gun-93)
+- **LinkedIn:** (https://linkedin.com/in/gunkeshri)
+- **GitHub:** (https://github.com/Gun-93)
 
 ---
 

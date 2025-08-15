@@ -1,14 +1,17 @@
 {  
   "name": "package.json",
   "private": true,
-  "homepage": "https://gun-93.github.io/React_Portfolio",
+   "homepage": "https://gun-93.github.io/React_Portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
     
   },
   "dependencies": {

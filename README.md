@@ -7,7 +7,7 @@ It showcases my projects, skills, and experience as a developer.
 ---
 
 ## 🚀 Live Demo
-🔗 **[View Portfolio](https:gunkeshri.netlify.app)**  
+🔗 **[View Portfolio](gunkeshri.netlify.app)**  
 
 ---
 

@@ -3,9 +3,10 @@ import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
+  base: '/React_Portfolio/',
   plugins: [
     react(),
     tailwindcss(),
   ],
-  base: "/React_Portfolio/", // 👈 VERY IMPORTANT for GitHub Pages
+   
 });
